@@ -1,0 +1,32 @@
+main{
+    display: flex;
+}
+.container-blogs{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+}
+.blog-container{
+    margin: 2rem 2rem;
+    width: 100%;
+}
+.accessories-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 33%;
+    height: 100%;
+}
+.my-blog-container {
+    width: 100%;
+    margin: 2rem auto
+}
+.Popular-tickets {
+    width: 100%;
+    margin: 0rem auto;
+}
+.labels{
+    margin: 2rem auto;
+    width: 100%;
+}
